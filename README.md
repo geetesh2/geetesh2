@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Geetesh</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geetesh2&label=Profile%20views&color=0e75b6&style=flat" alt="geetesh2" /> </p>
+- 🔭 I’m currently working on [Book Recommendation App](https://geetesh2.github.io/book-tracker-app/)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geetesh2" alt="geetesh2" /></a> </p>
+- 💬 Ask me about **Angular, c++, Jest, Cypress, .Net**
 
 - 📫 How to reach me **geeteshpandey2@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1E2sMD4iURKHxaHCFssSffOplnUQKcu7a/view?usp=drive_link](https://drive.google.com/file/d/1E2sMD4iURKHxaHCFssSffOplnUQKcu7a/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
